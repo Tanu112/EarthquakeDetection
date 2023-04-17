@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'EarthquakeDetection'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3CD07216F1C462694C6EE15BCD4453D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8B13B227D4344F0947E28FB95CBAF82 }}
